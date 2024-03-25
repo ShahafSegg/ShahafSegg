@@ -13,7 +13,7 @@ I'm Shahaf, a passionate DevOps Student from Israel. Welcome to my GitHub profil
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahafSegg&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
 ## Languages and Technologies
