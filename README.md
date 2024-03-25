@@ -6,7 +6,7 @@ I'm Shahaf, a passionate DevOps Student from Israel. Welcome to my GitHub profil
 
 <!-- About Me -->
 ## About Me
-- 👨‍💻 I'm proficient in food.
+- 👨‍💻 I'm proficient in technologies.
 - 🌱 I'm currently learning DevOps.
 - 💬 Ask me about anything.
 - 📫 Reach me at shahafseg@gmail.com.
