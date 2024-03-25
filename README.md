@@ -21,8 +21,8 @@ I'm Shahaf, a passionate DevOps Student from Israel. Welcome to my GitHub profil
 
 <!-- Connect with Me -->
 ## Connect with Me
-[<img align="left" alt="LinkedIn" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/shahafsegev/)
-[<img align="left" alt="Email" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />](shahafseg@gmail.com)
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahafsegev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahafsegev/" height="30" width="40" /></a></p>
 
 <br/>
 
