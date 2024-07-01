@@ -2,12 +2,12 @@
 # Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <!-- Introduction -->
-I'm Shahaf, a passionate DevOps Student from Israel. Welcome to my GitHub profile! 🚀
+I'm Shahaf, a passionate DevOps Engineer from Israel. Welcome to my GitHub profile! 🚀
 
 <!-- About Me -->
 ## About Me
 - 👨‍💻 I'm proficient in technologies.
-- 🌱 I'm currently learning DevOps.
+- 🌱 I'm currently in love with Automations.
 - 💬 Ask me about anything.
 - 📫 Reach me at shahafseg@gmail.com.
 
