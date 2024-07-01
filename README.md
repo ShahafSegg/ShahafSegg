@@ -25,14 +25,3 @@ I'm Shahaf, a passionate DevOps Engineer from Israel. Welcome to my GitHub profi
 <a href="https://www.linkedin.com/in/shahafsegev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahafsegev/" height="30" width="40" /></a></p>
 
 <br/>
-
-<!-- Visitors -->
-## Visitors
-![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
-
-<!-- Footer -->
-<div align="center">
-
-### Show some ❤️ by starring repositories!
-
-</div>
